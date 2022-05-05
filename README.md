@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Quenaya</h1>
-<h3 align="center">A student frontend developer from Bolivia</h3>
+<h3 align="center">A frontend development student from Bolivia</h3>
 
 - 🔭 I’m currently studying on [Baix Camp](https://www.insbaixcamp.org/)
 
 - 🌱 I’m currently learning **JS, CSS, Laravel and Java**
 
-- 📫 How to reach me **mi.quenaya@gmail.com**
+- 📫 You can reach me at **mi.quenaya@gmail.com**
 
 
 <p align="left">
