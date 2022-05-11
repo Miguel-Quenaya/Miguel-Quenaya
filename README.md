@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Quenaya</h1>
+<h1 align="center">Hi there👋, I'm Miguel Quenaya</h1>
 <h3 align="center">A frontend development student from Bolivia</h3>
 
 - 🔭 I’m currently studying on [Baix Camp](https://www.insbaixcamp.org/)
